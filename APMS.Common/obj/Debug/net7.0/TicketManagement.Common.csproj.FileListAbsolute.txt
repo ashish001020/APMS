@@ -1,0 +1,12 @@
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.Common\bin\Debug\net7.0\TicketManagement.Common.deps.json
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.Common\bin\Debug\net7.0\TicketManagement.Common.dll
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.Common\bin\Debug\net7.0\TicketManagement.Common.pdb
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.Common\obj\Debug\net7.0\TicketManagement.Common.csproj.AssemblyReference.cache
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.Common\obj\Debug\net7.0\TicketManagement.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.Common\obj\Debug\net7.0\TicketManagement.Common.AssemblyInfoInputs.cache
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.Common\obj\Debug\net7.0\TicketManagement.Common.AssemblyInfo.cs
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.Common\obj\Debug\net7.0\TicketManagement.Common.csproj.CoreCompileInputs.cache
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.Common\obj\Debug\net7.0\TicketManagement.Common.dll
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.Common\obj\Debug\net7.0\refint\TicketManagement.Common.dll
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.Common\obj\Debug\net7.0\TicketManagement.Common.pdb
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.Common\obj\Debug\net7.0\ref\TicketManagement.Common.dll

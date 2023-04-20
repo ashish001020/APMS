@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vnEWrw4S+U1x0dX198tBRY1eOS+TxMpO9N/YGHz1CYc=",
+  "Source": "APMS.API",
+  "BasePath": "_content/APMS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+C:\Codeology\APMS\APMS.Services\bin\Debug\net7.0\APMS.Services.deps.json
+C:\Codeology\APMS\APMS.Services\bin\Debug\net7.0\APMS.Services.dll
+C:\Codeology\APMS\APMS.Services\bin\Debug\net7.0\APMS.Services.pdb
+C:\Codeology\APMS\APMS.Services\bin\Debug\net7.0\APMS.Common.dll
+C:\Codeology\APMS\APMS.Services\bin\Debug\net7.0\APMS.Data.dll
+C:\Codeology\APMS\APMS.Services\bin\Debug\net7.0\APMS.Common.pdb
+C:\Codeology\APMS\APMS.Services\bin\Debug\net7.0\APMS.Data.pdb
+C:\Codeology\APMS\APMS.Services\obj\Debug\net7.0\APMS.Services.csproj.AssemblyReference.cache
+C:\Codeology\APMS\APMS.Services\obj\Debug\net7.0\APMS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codeology\APMS\APMS.Services\obj\Debug\net7.0\APMS.Services.AssemblyInfoInputs.cache
+C:\Codeology\APMS\APMS.Services\obj\Debug\net7.0\APMS.Services.AssemblyInfo.cs
+C:\Codeology\APMS\APMS.Services\obj\Debug\net7.0\APMS.Services.csproj.CoreCompileInputs.cache
+C:\Codeology\APMS\APMS.Services\obj\Debug\net7.0\APMS.Services.csproj.CopyComplete
+C:\Codeology\APMS\APMS.Services\obj\Debug\net7.0\APMS.Services.dll
+C:\Codeology\APMS\APMS.Services\obj\Debug\net7.0\refint\APMS.Services.dll
+C:\Codeology\APMS\APMS.Services\obj\Debug\net7.0\APMS.Services.pdb
+C:\Codeology\APMS\APMS.Services\obj\Debug\net7.0\ref\APMS.Services.dll

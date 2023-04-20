@@ -1,0 +1,12 @@
+C:\Codeology\APMS\APMS.Common\bin\Debug\net7.0\APMS.Common.deps.json
+C:\Codeology\APMS\APMS.Common\bin\Debug\net7.0\APMS.Common.dll
+C:\Codeology\APMS\APMS.Common\bin\Debug\net7.0\APMS.Common.pdb
+C:\Codeology\APMS\APMS.Common\obj\Debug\net7.0\APMS.Common.csproj.AssemblyReference.cache
+C:\Codeology\APMS\APMS.Common\obj\Debug\net7.0\APMS.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codeology\APMS\APMS.Common\obj\Debug\net7.0\APMS.Common.AssemblyInfoInputs.cache
+C:\Codeology\APMS\APMS.Common\obj\Debug\net7.0\APMS.Common.AssemblyInfo.cs
+C:\Codeology\APMS\APMS.Common\obj\Debug\net7.0\APMS.Common.csproj.CoreCompileInputs.cache
+C:\Codeology\APMS\APMS.Common\obj\Debug\net7.0\APMS.Common.dll
+C:\Codeology\APMS\APMS.Common\obj\Debug\net7.0\refint\APMS.Common.dll
+C:\Codeology\APMS\APMS.Common\obj\Debug\net7.0\APMS.Common.pdb
+C:\Codeology\APMS\APMS.Common\obj\Debug\net7.0\ref\APMS.Common.dll

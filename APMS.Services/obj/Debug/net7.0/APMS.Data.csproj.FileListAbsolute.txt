@@ -1,0 +1,5 @@
+C:\Codeology\APMS\APMS.Data\obj\Debug\net7.0\APMS.Data.csproj.AssemblyReference.cache
+C:\Codeology\APMS\APMS.Data\obj\Debug\net7.0\APMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codeology\APMS\APMS.Data\obj\Debug\net7.0\APMS.Data.AssemblyInfoInputs.cache
+C:\Codeology\APMS\APMS.Data\obj\Debug\net7.0\APMS.Data.AssemblyInfo.cs
+C:\Codeology\APMS\APMS.Data\obj\Debug\net7.0\APMS.Data.csproj.CoreCompileInputs.cache

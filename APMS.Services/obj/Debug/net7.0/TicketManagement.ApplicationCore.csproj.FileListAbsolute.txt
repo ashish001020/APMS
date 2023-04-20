@@ -1,0 +1,15 @@
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.ApplicationCore\bin\Debug\net7.0\TicketManagement.ApplicationCore.deps.json
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.ApplicationCore\bin\Debug\net7.0\TicketManagement.ApplicationCore.dll
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.ApplicationCore\bin\Debug\net7.0\TicketManagement.ApplicationCore.pdb
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.ApplicationCore\obj\Debug\net7.0\TicketManagement.ApplicationCore.csproj.AssemblyReference.cache
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.ApplicationCore\obj\Debug\net7.0\TicketManagement.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.ApplicationCore\obj\Debug\net7.0\TicketManagement.ApplicationCore.AssemblyInfoInputs.cache
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.ApplicationCore\obj\Debug\net7.0\TicketManagement.ApplicationCore.AssemblyInfo.cs
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.ApplicationCore\obj\Debug\net7.0\TicketManagement.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.ApplicationCore\obj\Debug\net7.0\TicketManagement.ApplicationCore.dll
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.ApplicationCore\obj\Debug\net7.0\refint\TicketManagement.ApplicationCore.dll
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.ApplicationCore\obj\Debug\net7.0\TicketManagement.ApplicationCore.pdb
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.ApplicationCore\obj\Debug\net7.0\ref\TicketManagement.ApplicationCore.dll
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.ApplicationCore\bin\Debug\net7.0\TicketManagement.Common.dll
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.ApplicationCore\bin\Debug\net7.0\TicketManagement.Common.pdb
+C:\Codeology\AmusementParkTicketManagementSystem\TicketManagement.ApplicationCore\obj\Debug\net7.0\TicketManagement.ApplicationCore.csproj.CopyComplete
