@@ -1,5 +1,7 @@
 using APMS.Data;
 using APMS.Services.Interface;
+using APMS.Services.Interface.Services;
+using APMS.Services.Logging;
 using APMS.Services.Repositories;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
@@ -69,7 +71,7 @@ builder.Services.AddSwaggerGen(swagger =>
 });
 
 #region Dependency Injection
-          
+builder.Services.AddScoped(typeof(IAppLogger<>), typeof(LoggerAdapter<>));
 builder.Services.AddTransient<IUserService, UserService>();
 #endregion
 
@@ -88,7 +90,7 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
-    app.UseSwaggerUI(c => c.SwaggerEndpoint("/AmusementParkTicketManagementSystem/swagger/v1/swagger.json", "EFieldBook v1"));
+    app.UseSwaggerUI(c => c.SwaggerEndpoint("/AmusementParkTicketManagementSystem/swagger/v1/swagger.json", "APMS v1"));
 }
 
 

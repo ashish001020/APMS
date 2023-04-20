@@ -26,7 +26,7 @@ namespace AmusementParkTicketManagementSystem.Controllers
                 return new ApiCallResponse()
                 {
                     Success = true,
-                    Data = data.Result
+                    Data = data
                 };
             }
             else
